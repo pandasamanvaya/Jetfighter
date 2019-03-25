@@ -8,6 +8,8 @@ This is a 3d plane game made using Opengl 3.0.
 * **Pitch right** -> d
 * **Accelerate** -> w
 * **Move up** -> space
+* **Fire missile** -> left-click
+* **Drop bomb** -> right-click
 * **Quit** -> escape key
 
 ## Camera View - 
