@@ -1,0 +1,13 @@
+int drawRectangle(GLfloat shape[], int i, float l, float b);
+int drawRectangle(GLfloat shape[], int i, float l, float b, float z);
+void color_shape(GLfloat color_data[], int off, int len, const float color[]);
+int create_regular_poly(GLfloat shape[], int len, int n, float r, float depth);
+void create_triangle(GLfloat shape[], int i, float x[], float y[], float z[]);
+void shift_shape(GLfloat shape[], int off, int len, float shift_x, float shift_y, float shift_z);
+int create_pyramid(GLfloat shape[], int i, int n, float height, float r);
+int draw_ring(GLfloat shape[], int off, float r);
+int create_frustum(GLfloat shape[], int len, float r1, float r2, float h);
+int create_cylinder(GLfloat shape[], int len, float r, float h);
+int create_regular_poly(GLfloat shape[], int len, int n, float r);
+int create_cuboid(GLfloat shape[], int len, float l, float b, float h);
+int draw_ring(GLfloat shape[], int len, float r, float size, float k);

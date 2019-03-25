@@ -1,0 +1,3 @@
+/home/samanvaya/courses/sem4/graphics/a2_2018121001/output/CMakeFiles/rebuild_cache.dir
+/home/samanvaya/courses/sem4/graphics/a2_2018121001/output/CMakeFiles/Jetfighter.dir
+/home/samanvaya/courses/sem4/graphics/a2_2018121001/output/CMakeFiles/edit_cache.dir
